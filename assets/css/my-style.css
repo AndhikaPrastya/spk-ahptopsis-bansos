@@ -1,0 +1,27 @@
+.float-right{
+     float: right;
+}
+
+.bg-saya {
+  background-color: #34495e; }
+
+.bg-secondary {
+  background-color: #cdd3d8; }
+
+.bg-success {
+  background-color: #47c363; }
+
+.bg-info2 {
+  background-color: #3abaf4; }
+
+.bg-warning {
+  background-color: #ffa426; }
+
+.bg-danger {
+  background-color: #fc544b; }
+
+.bg-light {
+  background-color: #e3eaef; }
+
+.bg-dark {
+  background-color: #191d21; }      
